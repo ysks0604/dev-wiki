@@ -9,7 +9,7 @@ This is my personal developer wiki — a place to organize and archive notes, re
 
 - GitHub Wiki にて管理：[Wikiを開く](../../wiki)
 - 対象分野：Web開発、ツール、フレームワーク、CLI、Tipsなど
-- 主に自分用ですが、清書かつ内容が充実してきたら公開も検討します
+- あくまで自分が学習や見聞きした内容を失わないための備忘録となります
 
 ---
 
